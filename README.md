@@ -24,6 +24,7 @@ Check out the live demo of the project [here](https://simple-calculator014.netli
 
 ![Calculator Screenshot](https://github.com/Rohith309/Calculator/raw/main/Screenshot%20(111).png)
 
+
 - ## Usage 📝
 
 - Use the number buttons to enter values.
