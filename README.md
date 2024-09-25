@@ -15,7 +15,7 @@ A simple, responsive calculator built using **HTML**, **Bootstrap**, and **JavaS
 - **Bootstrap**: Handles the responsive design and button layout.
 - **JavaScript**: Implements the calculator's functionality.
 - **Inline CSS**: Custom styling for calculator layout and display.
-- 
+
 - ## Usage 📝
 
 - Use the number buttons to enter values.
