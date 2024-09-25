@@ -20,7 +20,7 @@ A simple, responsive calculator built using **HTML**, **Bootstrap**, and **JavaS
 
 Check out the live demo of the project [here](https://simple-calculator014.netlify.app/).
 
-![Calculator Screenshot](https://github.com/Rohith309/Calculator/raw/main/Screenshot%20%28111%29.png)
+![Calculator Screenshot](https://github.com/Rohith309/-Simple-Calculator/blob/main/Screenshot.png)
 - ## Usage 📝
 
 - Use the number buttons to enter values.
