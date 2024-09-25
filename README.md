@@ -16,6 +16,14 @@ A simple, responsive calculator built using **HTML**, **Bootstrap**, and **JavaS
 - **JavaScript**: Implements the calculator's functionality.
 - **Inline CSS**: Custom styling for calculator layout and display.
 
+## Demo 🎯
+
+Check out the live demo of the project [here](https://simple-calculator014.netlify.app/).
+
+## Screenshot 📸
+
+![Calculator Screenshot](https://github.com/Rohith309/Calculator/raw/main/Screenshot%20(111).png)
+
 - ## Usage 📝
 
 - Use the number buttons to enter values.
