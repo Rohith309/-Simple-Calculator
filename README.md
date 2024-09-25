@@ -22,7 +22,8 @@ Check out the live demo of the project [here](https://simple-calculator014.netli
 
 ## Screenshot 📸
 
-![Calculator Screenshot](https://github.com/Rohith309/Calculator/raw/main/Screenshot%20(111).png)
+![Calculator Screenshot](https://github.com/Rohith309/Calculator/raw/main/Screenshot%20%28111%29.png)
+
 
 
 - ## Usage 📝
